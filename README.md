@@ -23,7 +23,7 @@ A full-stack AI-powered ecommerce chatbot built with Node.js, SQLite, and OpenRo
 
 1. Clone the repo
 2. Run `npm install`
-3. Create `.env` file (copy from `.env.example` and add your OpenRouter key)
+3. Create `.env` file (copy from `.env.example` and add your LLM API key)
 4. Run `node setup-db.js` to create database + 10 products
 5. Run `node server.js` to start backend
 6. Open `index.html` in your browser
