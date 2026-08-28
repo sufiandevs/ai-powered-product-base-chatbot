@@ -1,4 +1,3 @@
-# 
 # AI Product Shopping Chatbot 
 
 A full-stack AI-powered ecommerce chatbot built with Node.js, SQLite, and OpenRouter (Llama 3.3).
