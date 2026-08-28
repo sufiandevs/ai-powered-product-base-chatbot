@@ -1,16 +1,16 @@
-# ai-powered-product-base-chatbot
-# AI Product Shopping Chatbot 🤖🛒
+# 
+# AI Product Shopping Chatbot 
 
 A full-stack AI-powered ecommerce chatbot built with Node.js, SQLite, and OpenRouter (Llama 3.3).
 
 ## Features
 
-- ✅ 10 AI & Smart Home products in database
-- ✅ REST API for products, cart, and orders
-- ✅ AI Shopping Assistant via OpenRouter (Llama 3.3 70B)
-- ✅ AI can actually add items to cart when you ask
-- ✅ Shopping cart with checkout
-- ✅ Beautiful animated frontend
+- 10 AI & Smart Home products in database
+-  REST API for products, cart, and orders
+-  AI Shopping Assistant via OpenRouter (Llama 3.3 70B)
+-  AI can actually add items to cart when you ask
+-  Shopping cart with checkout
+-  Beautiful animated frontend
 
 ## Tech Stack
 
@@ -41,4 +41,7 @@ A full-stack AI-powered ecommerce chatbot built with Node.js, SQLite, and OpenRo
 
 ## Screenshots
 
-(Add screenshots here after running)
+<img width="1226" height="460" alt="image" src="https://github.com/user-attachments/assets/d6ae319c-42f8-44e0-bfea-85318e8f7ca0" />
+<img width="584" height="377" alt="image" src="https://github.com/user-attachments/assets/05637f7b-ae8e-4b7a-8d25-5b415da7ccc8" />
+
+
